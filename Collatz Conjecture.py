@@ -1,3 +1,5 @@
+# This code is designed to replicate Collatz Conjecture
+#Explaintion on Collatz Conjecture https://www.youtube.com/watch?v=094y1Z2wpJg
 i = 1
 number = int(input()
 while i < 10:
